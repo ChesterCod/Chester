@@ -1,0 +1,20 @@
+.lll1{
+    height: 300px;
+    width: 600px;
+    background: #808080;
+    box-shadow: #d5b791 -25px -50px 25px 1px;
+    margin-top: 100px;
+
+}
+.lll2{
+    box-sizing: border-box;
+    height: 200px;
+    width: 400px;
+    border-left: #fe0002 solid 5px;
+}
+p{
+    padding-left: 30px;
+    font-size: 20px;
+
+
+}
