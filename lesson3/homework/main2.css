@@ -1,0 +1,44 @@
+.H{
+    width: 100%;
+    height: 90px;
+    background: #0c65a7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.N{
+    width: 100%;
+    height: 70px;
+    background: #124b78;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blokmain{
+    display: flex;
+    flex-direction: row;
+}
+.blok1{
+    width: 75%;
+    height: 400px;
+    background: #16a2c5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blok2{
+    width: 25%;
+    height: 400px;
+    background: #5275ad;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.F{
+    width: 100%;
+    height: 80px;
+    background: #7bcde3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
