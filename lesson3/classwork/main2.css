@@ -1,0 +1,45 @@
+.A{
+    background: #9e9e9e;
+    width: 1330px;
+    height: 190px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blok{
+    width: 325px;
+    height: 190px;
+    background: #9e9e9e;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blokcontainer{
+    display: flex;
+}
+.blokcontainer1{
+    display: flex;
+}
+.allblokcontainer{
+    display: flex;
+}
+.H{
+    width: 325px;
+    height: 390px;
+    background: #9e9e9e;
+    margin-left: 5px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.targetcontainer{
+    display: flex;
+    flex-direction: column;
+}
+.target{
+    border: #252525 solid 3px;
+    border-radius: 3px;
+}
