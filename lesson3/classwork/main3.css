@@ -1,0 +1,45 @@
+.blokcontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+.content{
+    width: 20%;
+    height: 400px;
+    background: #2268BBFF;
+    margin: 11px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e4e4e4;
+    font-size: 25px;
+}
+.content1{
+    width: 41%;
+    height: 200px;
+    background: #2268BBFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5px 391px;
+    color: #e4e4e4;
+    font-size: 25px;
+}
+.smallblokcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+}
+.smallblok{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 13%;
+    height: 180px;
+    background: #16447AFF;
+    margin: 10px;
+    color: #e4e4e4;
+    font-size: 17px;
+}
