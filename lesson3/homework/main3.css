@@ -1,0 +1,42 @@
+.Wid{
+    width: 40%;
+    height: 200px;
+    background: #2269BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 398px;
+    color: #e4e4e4;
+    font-size: 25px;
+    border-radius: 3px;
+}
+.blokcontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.gets{
+    background: #16457A;
+    width: 12%;
+    height: 175px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 13px;
+    color: #e4e4e4;
+    font-size: 17px;
+    border-radius: 3px;
+}
+.Con{
+    width: 40%;
+    height: 420px;
+    background: #2269BB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px 398px;
+    color: #e4e4e4;
+    font-size: 25px;
+    border-radius: 3px;
+}
