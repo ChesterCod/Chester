@@ -1,0 +1,17 @@
+html, body{
+    scroll-behavior: smooth;
+}
+h1{
+    background: #7bcde3;
+    color: #892726;
+}
+.background{
+    background: blueviolet;
+}
+h2{
+    background: #7bcde3;
+    color: #892726;
+}
+p{
+    background: gold;
+}
