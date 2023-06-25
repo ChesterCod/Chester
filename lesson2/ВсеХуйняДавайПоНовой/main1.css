@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.FatherB{
+    background: black;
+    height: 608px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.YN{
+    width: 200px;
+    height: 65px;
+    border-radius: 200px;
+    text-align: center;
+    margin: 10px;
+    justify-content: center;
+}
+.N1{
+    color: #ff6e1d;
+    border: 5px solid #ff6e1d;
+}
+.N2{
+    color: #2cfff2;
+    border: 5px solid #2cfff2;
+}
+.N3{
+    color: #ff54a6;
+    border: 5px solid #ff54a6;
+}
+.N4{
+    color: #ff3e3e;
+    border: 5px solid #ff3e3e;
+}
