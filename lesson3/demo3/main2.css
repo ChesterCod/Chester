@@ -1,0 +1,33 @@
+.wrapbox{
+    border: 3px solid black;
+    border-radius: 3px;
+    height: 585px;
+}
+.box{
+    background: #9e9e9e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3px;
+}
+.content{
+    height: 190px;
+}
+.content2{
+    height: 190px;
+    width: 911px;
+}
+.child{
+    display: flex;
+}
+.content3{
+    width: 300px;
+    height: 190px;
+}
+.content4{
+    height: 386px;
+    width: 333px;
+    position: relative;
+    top: -392px;
+    left: 919px;
+}
