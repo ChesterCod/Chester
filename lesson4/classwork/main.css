@@ -1,0 +1,45 @@
+.bg-silver-base {
+    background: #9e9e9e;
+}
+
+.brd-r-3 {
+    border-radius: 3px;
+}
+
+.mrg-5 {
+    margin: 5px;
+}
+
+.dsp-jtf-alg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dsp-f {
+    display: flex;
+}
+
+.brd-s-2 {
+    border: 2px solid black;
+}
+
+.w300 {
+    width: 301px;
+}
+
+.h200 {
+    height: 200px;
+}
+
+.w923 {
+    width: 923px;
+}
+
+.h410 {
+    height: 410px;
+}
+
+.brd-r-10 {
+    border-radius: 10px;
+}
