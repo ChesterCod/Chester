@@ -44,16 +44,33 @@
 @media (min-width: 0px) and (max-width: 576px) {
   .wrap{
     flex-wrap: wrap;
+    width: 100%;
   }
   .wrap-element-box {
     flex-direction: column;
+    width: 100%;
   }
   .wrap-box{
-    display: block;
+   justify-content: space-around;
+    align-items: center;
   }
   .content{
     height: 50px;
     width: 100%;
+
+  }
+  .element-1{
+    height: 100px;
+    width: 100%;
+
+  }
+  .box{
+    height: 50px;
+    width: 15%;
+  }
+  .element-2{
+    width: 100%;
+    height: 50px;
   }
 
 
