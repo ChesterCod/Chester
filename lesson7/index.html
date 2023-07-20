@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="header">
+    <nav class="nav_btn_menu">
+      <div class="menu">
+        <img class="header_logo" src="images/logo1.svg" alt="logo">
+        <a class="nav_btn__link" href="#">Why Sprig?</a>
+        <div class="item" onclick="toggleSubmenu(1)">Product</div>
+        <div class="submenu" id="submenu1">
+          <a href="#">Product 1</a>
+          <a href="#">Product 2</a>
+          <a href="#">Product 3</a>
+        </div>
+        <div class="item" onclick="toggleSubmenu(2)">Customers</div>
+        <div class="submenu" id="submenu2">
+          <a href="#">Customers 1</a>
+          <a href="#">Customers 2</a>
+        </div>
+        <div class="item" onclick="toggleSubmenu(3)">Resources</div>
+        <div class="submenu" id="submenu3">
+          <a href="#">Resources 1</a>
+        </div>
+        <a class="nav_btn__link" href="#">Plans</a>
+        <div class="nav_btn__box">
+          <a class="nav_btn__link" href="#">Sign In</a>
+          <a class="nav_btn__link" href="#">Talk to Sales</a>
+          <button class="nav_btn">Start for Free</button>
+        </div>
+      </div>
+    </nav>
+  </header>
+  <div class="content">
+    <div class="content_card">
+      <h1 class="content_title">In-context user research that's fast and reliable.</h1>
+      <p class="content_txt">Ensure user research happens early and often with Sprig's targeted microsurveys, video
+        questions, and more.</p>
+      <div class="content_btn__box">
+        <button class="content_btn__start">Start for Free</button>
+        <button class="content_btn__talk">Talk to Sales</button>
+      </div>
+    </div>
+    <div class="content_img">
+      <img class="content_img__absolut" src="images/shadow.svg" alt="shadow">
+      <img class="content_img__position" src="images/IMAGE%20(1).svg" alt="img">
+    </div>
+  </div>
+  <div class="logo">
+    <h2 class="logo_title">Trusted by the world's most innovative companies</h2>
+    <img class="img_logo" src="images/logotipes.svg" alt="logotypes">
+  </div>
+  <div class="modern">
+    <img class="modern_img" src="images/modern.svg" alt="modern">
+    <div class="modern_box">
+      <h4 class="modern_title">Modern product teams move fast, but learning from customers takes a ton of time, effort,
+        and energy.</h4>
+      <p class="modern_txt">So teams often rush user research or skip it altogether, causing products and features to
+        miss the mark.</p>
+    </div>
+  </div>
+  <div class="contact">
+    <h6 class="contact_title">Sprig makes it possible to obtain qualitative insights at the speed and scale of analytics</h6>
+    <img class="contact_img" src="images/contact.svg" alt="contact">
+    <button class="contact_btn">Start for Free</button>
+  </div>
+</div>
+
+<script src="main.js"></script>
+</body>
+</html>
