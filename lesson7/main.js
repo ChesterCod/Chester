@@ -5,4 +5,5 @@ function toggleSubmenu(submenuId) {
     } else {
         submenu.style.display = "none";
     }
+
 }

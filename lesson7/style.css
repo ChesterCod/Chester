@@ -143,12 +143,15 @@ h1 {
   border-radius: 10px;
   color: #000000;
 }
+.content_img{
+  position: relative;
+}
 .content_img__position{
   width: 608px;
   height: 541px;
   position: absolute;
   right: 50px;
-  top: 300px;
+  top: 200px;
 
 }
 .content_img__absolut{
@@ -177,13 +180,18 @@ h1 {
   width: 1000px;
   height: 200px;
 }
+.modern_container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 .modern{
   width: 1100px;
   height: 494px;
   border-radius: 10px;
   background: #51CEBC;
   display: flex;
-  margin-left: 20px;
   margin-bottom: 200px;
 }
 .modern_img{
