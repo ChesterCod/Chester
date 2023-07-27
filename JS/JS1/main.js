@@ -51,20 +51,29 @@ console.log(bool2)
 document.write(bool2)
 alert(bool2)
 
-let f = "Максим"
-let m = "Васильович"
-let l = "Метельський"
 
+let f = "Максим";
+let m = "Васильович";
+let l = "Метельський";
 let r = (f + " " + m + " " + l);
-console.log(r)
+console.log(r);
+
 
 let f1 = prompt("Будь ласка, введіть ваше Ім'я:");
 let m1 = prompt("Будь ласка, введіть ваше По-Батькові:");
 let a3 = prompt("Будь ласка, введіть ваш вік:");
-
 console.log("Ім'я: " + f1);
 console.log("По-Батькові: " + m1);
 console.log("Вік: " + a3);
+
+
+let z = 100;
+console.log(typeof z);
+let x = 200;
+console.log(typeof x);
+let z1 = true;
+console.log(typeof z1);
+
 
 let bo = [
     {
